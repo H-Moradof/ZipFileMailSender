@@ -1,0 +1,100 @@
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Infrastructure.dll.config
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Infrastructure.pdb
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\DomainModels.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\EntityFramework.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Newtonsoft.Json.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.Mvc.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.Razor.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\DomainModels.pdb
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\EntityFramework.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\Newtonsoft.Json.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.Mvc.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.Razor.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Release\Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\DomainModels.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\EntityFramework.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.Razor.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\DomainModels.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\EntityFramework.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.Mvc.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.Razor.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\DomainModels.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\EntityFramework.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.Razor.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\DomainModels.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\EntityFramework.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.Mvc.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.Razor.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\DomainModels.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\EntityFramework.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.Razor.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\DomainModels.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\EntityFramework.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.Mvc.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.Razor.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Release\Infrastructure.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Release\Infrastructure.pdb

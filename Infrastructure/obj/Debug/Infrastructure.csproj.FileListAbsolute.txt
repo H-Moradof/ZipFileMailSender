@@ -1,0 +1,78 @@
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\DomainModels.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\EntityFramework.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.Razor.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\DomainModels.pdb
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\EntityFramework.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.Mvc.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.Razor.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Sherkat\projects\Shop\src\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\DomainModels.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\EntityFramework.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\DomainModels.pdb
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\EntityFramework.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\Gift_Card_Shop\src\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\DomainModels.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\EntityFramework.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\DomainModels.pdb
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\EntityFramework.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\GiftCardShop\src\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\DomainModels.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\EntityFramework.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\DomainModels.pdb
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\EntityFramework.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Hamid Projects\MyGit\Giftina.ir\src\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Newtonsoft.Json.dll

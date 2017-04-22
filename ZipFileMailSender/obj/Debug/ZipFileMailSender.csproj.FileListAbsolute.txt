@@ -1,0 +1,12 @@
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.exe.config
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.exe
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.pdb
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.csprojResolveAssemblyReference.cache
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.Form1.resources
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.Properties.Resources.resources
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.csproj.GenerateResource.Cache
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.exe
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.pdb
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.dll
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.pdb
+D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\ICSharpCode.SharpZipLib.dll
