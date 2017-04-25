@@ -10,3 +10,15 @@ D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender
 D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.dll
 D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.pdb
 D:\Temp Projects\ZipFileMailSender\ZipFileMailSender\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.exe.config
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.exe
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.pdb
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.exe
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\ZipFileMailSender.pdb
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\bin\Debug\Infrastructure.pdb
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.Form1.resources
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.Properties.Resources.resources
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\ZipFileMailSender\obj\Debug\ZipFileMailSender.csproj.GenerateResource.Cache

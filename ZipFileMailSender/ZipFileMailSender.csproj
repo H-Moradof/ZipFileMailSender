@@ -76,7 +76,26 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="App_Data\hash\1.hs" />
+    <None Include="App_Data\hash\10.hs" />
+    <None Include="App_Data\hash\11.hs" />
+    <None Include="App_Data\hash\12.hs" />
+    <None Include="App_Data\hash\13.hs" />
+    <None Include="App_Data\hash\14.hs" />
+    <None Include="App_Data\hash\15.hs" />
     <None Include="App_Data\hash\2.hs" />
+    <None Include="App_Data\hash\3.hs" />
+    <None Include="App_Data\hash\4.hs" />
+    <None Include="App_Data\hash\5.hs" />
+    <None Include="App_Data\hash\6.hs" />
+    <None Include="App_Data\hash\7.hs" />
+    <None Include="App_Data\hash\8.hs" />
+    <None Include="App_Data\hash\9.hs" />
+    <None Include="App_Data\hash\b1.hs" />
+    <None Include="App_Data\hash\b2.hs" />
+    <None Include="App_Data\hash\b3.hs" />
+    <None Include="App_Data\hash\b4.hs" />
+    <None Include="App_Data\hash\c1.hs" />
+    <None Include="App_Data\hash\c2.hs" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

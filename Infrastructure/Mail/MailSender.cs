@@ -180,7 +180,10 @@ namespace Infrastructure.Mail
                 // add attachment
                 if (attachments != null && attachments.Length > 0)
                     foreach (var attach in attachments)
+                    {
+                        attach.ContentStream.Position = 0;
                         mail.Attachments.Add(attach);
+                    }
 
                 mail.Priority = MailPriority.High;
                 var smtp = new SmtpClient

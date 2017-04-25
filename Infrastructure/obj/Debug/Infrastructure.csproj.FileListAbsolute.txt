@@ -76,3 +76,11 @@ D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.cspro
 D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.dll
 D:\Temp Projects\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.pdb
 D:\Temp Projects\ZipFileMailSender\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.dll.config
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Hamid Projects\Archive\Sample Code\ZipFileMailSender\Infrastructure\obj\Debug\Infrastructure.pdb

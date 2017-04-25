@@ -8,13 +8,14 @@ using System.Net.Mail;
 using System.Net.Mime;
 using System.IO.Compression;
 using ICSharpCode.SharpZipLib.Zip;
+using System.Net;
 
 namespace ZipFileMailSender
 {
     public partial class Form1 : Form
     {
 
-        private const string baseFilePath = "D:\\Temp Projects\\ZipFileMailSender\\ZipFileMailSender\\App_Data\\hash\\";
+        private const string baseFilePath = "D:\\Hamid Projects\\Archive\\Sample Code\\ZipFileMailSender\\ZipFileMailSender\\App_Data\\hash\\";
 
 
         public Form1()
@@ -26,21 +27,22 @@ namespace ZipFileMailSender
         {
             var isSuccess = true;
 
-            // ZipBySharpZip(new string[] { "1.hs", "2.hs" });
+            //var ms = ZipBySharpZip(new string[] { "1.hs", "2.hs" });
+            //using (var fs = new FileStream("D:\\Hamid Projects\\Archive\\Sample Code\\ZipFileMailSender\\ZipFileMailSender\\App_Data\\sample.rar", FileMode.Create))
+            //{
+            //    ms.CopyTo(fs);
+            //}
 
             // ZipByGZipStream(etImageBytes("2.hs"));
-
             // CreateImage("2.hs", "image2.jpg");
-
-            // isSuccess = AttachImageAndSendEmail("1.hs");
+            //  isSuccess = AttachImageAndSendEmail("1.hs");
 
             isSuccess = AttachZipAndSendEmail(new string[] { "1.hs", "2.hs" });
-
 
             MessageBox.Show(isSuccess ? "Email sent successfully" : "An error occored");
         }
 
-
+        #region p
         private void ZipByGZipStream(byte[] imageBytes)
         {
             string zipFileName = baseFilePath + "sampleGZip.zip";
@@ -52,61 +54,55 @@ namespace ZipFileMailSender
                 }
             }
         }
-
+        #endregion
 
         private MemoryStream ZipBySharpZip(string[] encryptedFileNames)
         {
             var ms = new MemoryStream();
-            using (var zipOStream = new ZipOutputStream(ms))
+            var zipOStream = new ZipOutputStream(ms);
+            zipOStream.SetLevel(9);
+            int bytesRead = 0;
+
+            foreach (var encryptedFileName in encryptedFileNames)
             {
-                int bytesRead = 0;
+                var imageBytes = GetImageBytes(encryptedFileName);
 
-                foreach (var encryptedFileName in encryptedFileNames)
-                {
-                    var imageBytes = GetImageBytes(encryptedFileName);
-
-                    ZipEntry entry = new ZipEntry((encryptedFileName.Replace(".hs", ".jpg")));
-                    zipOStream.PutNextEntry(entry);
-                    using (var entryMS = new MemoryStream(imageBytes))
-                    {
-                        byte[] transferBuffer = new byte[1024];
-                        do
-                        {
-                            bytesRead = entryMS.Read(transferBuffer, 0, transferBuffer.Length);
-                            zipOStream.Write(transferBuffer, 0, bytesRead);
-                        }
-                        while (bytesRead > 0);
-                    }
-                }
+                string entryName = encryptedFileName.Replace(".hs", ".jpg");
+                ZipEntry entry = new ZipEntry(entryName);
+                zipOStream.PutNextEntry(entry);
+                zipOStream.Write(imageBytes, 0, imageBytes.Length);
+                // var entryMS = new MemoryStream(imageBytes);
+                //byte[] transferBuffer = new byte[1024];
+                //do
+                //{
+                //    bytesRead = entryMS.Read(transferBuffer, 0, transferBuffer.Length);
+                //    zipOStream.Write(transferBuffer, 0, bytesRead);
+                //}
+                //while (bytesRead > 0);
             }
-
+            zipOStream.Finish();
+            ms.Seek(0, SeekOrigin.Begin);
             return ms;
         }
-
+        
 
         private bool AttachZipAndSendEmail(string[] encryptedFileNames)
         {
-            string filePath = string.Empty;
-
             // Create attachment
             var attachmentStream = ZipBySharpZip(encryptedFileNames);
             var attachFile = new Attachment(attachmentStream, new ContentType(MediaTypeNames.Application.Zip));
-            attachFile.ContentDisposition.FileName = "cards.zip";
-
-            var disposition = attachFile.ContentDisposition;
-            disposition.CreationDate = DateTime.UtcNow.AddHours(-5);
-            disposition.ModificationDate = DateTime.UtcNow.AddHours(-5);
-            disposition.ReadDate = DateTime.UtcNow.AddHours(-5);
+            attachFile.ContentDisposition.FileName = "cards7.zip";
+            attachFile.ContentDisposition.CreationDate = DateTime.UtcNow.AddHours(-5);
+            attachFile.ContentDisposition.ModificationDate = DateTime.UtcNow.AddHours(-5);
+            attachFile.ContentDisposition.ReadDate = DateTime.UtcNow.AddHours(-5);
+            attachFile.ContentStream.Position = 0;
 
             // Send Email
             var isSuccess = SendEmail(attachFile);
-
-            attachmentStream.Dispose();
-            attachFile.Dispose();
-
             return isSuccess;
         }
 
+        #region p
         private bool AttachImageAndSendEmail(string encryptedFileName)
         {
             byte[] imageBytes = GetImageBytes(encryptedFileName);
@@ -166,6 +162,7 @@ namespace ZipFileMailSender
 
             return isSuccess;
         }
+        #endregion
 
     }
 }
